@@ -12,5 +12,6 @@ int main(){
 		number=number+arr[i]*pow(10,i);
 	}
 	printf("\nThe number is: %d\n",number);
+	printf("Successfully");
 return 0;
 }
